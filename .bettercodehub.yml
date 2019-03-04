@@ -1,25 +1,31 @@
 exclude:
-- /WCTCore/WebRoot/.*
-- /WCTCore/build/.*
-- /WCTCore/cfg/.*
-- /WCTCore/db/.*
-- /WCTCore/docs/.*
-- /WCTCore/etc/.*
-- /WCTDigitalAssetStore/WebRoot/.*
-- /WCTDigitalAssetStore/bin/.*
-- /WCTDigitalAssetStore/build/.*
-- /WCTDigitalAssetStore/cfg/.*
-- /WCTDigitalAssetStore/docs/.*
-- /WCTDigitalAssetStore/lib/.*
-- /WCTHarvestAgent/WebRoot/.*
-- /WCTHarvestAgent/bin/.*
-- /WCTHarvestAgent/build/.*
-- /WCTHarvestAgent/cfg/.*
-- /WCTHarvestAgent/docs/.*
-- /WCTHarvestAgent/lib/.*
-- /WCTSubmitToRosetta/build/.*
-- /WCTSubmitToRosetta/docs/.*
-- /WCTSubmitToRosetta/endorsed-lib/.*
-- /WCTSubmitToRosetta/lib/.*
-- /bin/.*
-- /lib/.*
+  - /WCTCore/WebRoot/.*
+  - /WCTCore/build/.*
+  - /WCTCore/cfg/.*
+  - /WCTCore/db/.*
+  - /WCTCore/docs/.*
+  - /WCTCore/etc/.*
+  - /WCTDigitalAssetStore/WebRoot/.*
+  - /WCTDigitalAssetStore/bin/.*
+  - /WCTDigitalAssetStore/build/.*
+  - /WCTDigitalAssetStore/cfg/.*
+  - /WCTDigitalAssetStore/docs/.*
+  - /WCTDigitalAssetStore/lib/.*
+  - /WCTHarvestAgent/WebRoot/.*
+  - /WCTHarvestAgent/bin/.*
+  - /WCTHarvestAgent/build/.*
+  - /WCTHarvestAgent/cfg/.*
+  - /WCTHarvestAgent/docs/.*
+  - /WCTHarvestAgent/lib/.*
+  - /WCTSubmitToRosetta/build/.*
+  - /WCTSubmitToRosetta/docs/.*
+  - /WCTSubmitToRosetta/endorsed-lib/.*
+  - /WCTSubmitToRosetta/lib/.*
+  - /bin/.*
+  - /lib/.*
+include:
+  - /WCTCore/src-api/.*
+  - /WCTCore/src-app/.*
+  - /WCTDigitalAssetStore/src/.*
+  - /WCTHarvestAgent/src/.*
+  - /WCTSubmitToRosetta/src/.*
